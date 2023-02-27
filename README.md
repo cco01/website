@@ -1,3 +1,3 @@
-https://cco01.github.io
+http://clivec78.sg-host.com/personal/
 
-Personal Website hosted on git, made to post art pieces I create in my spare time
+Personal Website hosted on siteground, made to post art pieces I create in my spare time. In progress
